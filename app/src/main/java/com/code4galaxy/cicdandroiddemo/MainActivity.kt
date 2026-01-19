@@ -1,4 +1,4 @@
-package com.myofficework000.cicdandroid // Asegúrate que coincida con el package real de tu archivo
+package com.code4galaxy.cicdandroiddemo // Asegúrate que coincida con el package real de tu archivo
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
